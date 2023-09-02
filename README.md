@@ -1,2 +1,3 @@
 # infoarena-nostalgia
-🎵 ani de liceu - cu emoții la backtracking - scumpii ani de liceu - cu quicksortul dai de greu
+
+Rezolvări la probleme de algoritmică de pe [infoarena](www.infoarena.ro/). Ca în liceu.
